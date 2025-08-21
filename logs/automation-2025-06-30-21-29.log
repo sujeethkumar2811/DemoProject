@@ -1,0 +1,71 @@
+20:34:43.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sujee\AppData\Local\Temp\testng-eclipse--398635161\testng-customsuite.xml
+
+20:34:43.792 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+20:34:49.111 [main] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+20:34:49.515 [main] INFO  testCases.TC001_LoginApp - Entered username
+20:34:49.617 [main] INFO  testCases.TC001_LoginApp - Entered password
+20:34:50.946 [main] INFO  testCases.TC001_LoginApp - validation passed
+20:34:50.946 [main] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+20:34:51.401 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3b0ee03a: 112 ms
+20:34:51.401 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e7dfd44: 0 ms
+20:34:51.422 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@38eb2fb0: 12 ms
+20:34:51.431 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3721177d: 9 ms
+20:34:51.435 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@746b18fd: 2 ms
+20:34:51.435 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a2e0858: 0 ms
+21:00:01.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:00:05.783 [main] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:00:06.294 [main] INFO  testCases.TC001_LoginApp - Entered username
+21:00:06.432 [main] INFO  testCases.TC001_LoginApp - Entered password
+21:00:07.720 [main] INFO  testCases.TC001_LoginApp - validation passed
+21:00:07.722 [main] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+21:01:57.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:02:01.145 [main] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:02:01.672 [main] INFO  testCases.TC001_LoginApp - Entered username
+21:02:01.798 [main] INFO  testCases.TC001_LoginApp - Entered password
+21:02:03.368 [main] INFO  testCases.TC001_LoginApp - validation passed
+21:02:03.376 [main] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+21:08:47.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:09:51.103 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:21:27.747 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:24:00.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:24:08.614 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:24:10.805 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - Entered username
+21:24:10.938 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - Entered password
+21:24:12.325 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - validation passed
+21:24:12.325 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+21:26:55.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:26:59.356 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:26:59.785 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - Entered username
+21:26:59.865 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - Entered password
+21:27:01.164 [TestNG-tests-2] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:27:01.251 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - validation passed
+21:27:01.251 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+21:27:01.712 [TestNG-tests-2] INFO  testCases.TC001_LoginApp - Entered username
+21:27:01.849 [TestNG-tests-2] INFO  testCases.TC001_LoginApp - Entered password
+21:27:03.420 [TestNG-tests-2] INFO  testCases.TC001_LoginApp - validation passed
+21:27:03.420 [TestNG-tests-2] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+21:29:08.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+21:29:13.336 [main] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:29:13.857 [main] INFO  testCases.TC001_LoginApp - Entered username
+21:29:13.990 [main] INFO  testCases.TC001_LoginApp - Entered password
+21:29:14.091 [main] INFO  testCases.TC001_LoginApp - validation passed
+21:29:14.091 [main] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+21:29:18.183 [main] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+21:29:18.707 [main] INFO  testCases.TC001_LoginApp - Entered username

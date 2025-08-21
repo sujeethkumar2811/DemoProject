@@ -1,0 +1,12 @@
+21:29:18.822 [main] INFO  testCases.TC001_LoginApp - Entered password
+21:29:20.243 [main] INFO  testCases.TC001_LoginApp - validation passed
+21:29:20.244 [main] INFO  testCases.TC001_LoginApp - TC001_LoginApp pass
+23:04:06.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+23:04:11.092 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+23:05:15.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Eclipse Workspace\DemoProject\testng.xml
+
+23:05:19.365 [TestNG-tests-2] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****
+23:05:19.439 [TestNG-tests-1] INFO  testCases.TC001_LoginApp - **** TC001_LoginApp started *****

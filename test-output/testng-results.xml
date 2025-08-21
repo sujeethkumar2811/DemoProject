@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-19T20:44:29 IST" name="Default suite" finished-at="2025-08-19T20:44:35 IST" duration-ms="6579">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:StepDefinitions.TestNGRunner@ec0c838]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-08-19T20:44:29 IST" name="Default test" finished-at="2025-08-19T20:44:35 IST" duration-ms="6579">
+      <class name="StepDefinitions.TestNGRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:StepDefinitions.TestNGRunner@ec0c838]" started-at="2025-08-19T20:44:29 IST" name="setUpClass" finished-at="2025-08-19T20:44:29 IST" duration-ms="437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@42505474]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:StepDefinitions.TestNGRunner@ec0c838]" started-at="2025-08-19T20:44:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-19T20:44:35 IST" duration-ms="6063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["login to check user"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["feature to test login functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:StepDefinitions.TestNGRunner@ec0c838]" started-at="2025-08-19T20:44:35 IST" name="tearDownClass" finished-at="2025-08-19T20:44:35 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- StepDefinitions.TestNGRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
